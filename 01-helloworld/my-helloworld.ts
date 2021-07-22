@@ -1,5 +1,5 @@
 // compile
-// $tsc my-helloworld.ts
+// $tsc -noEmitOnError my-helloworld.ts
 
 console.log("My Hello World!");
 
